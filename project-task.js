@@ -101,3 +101,4 @@ function printArray(array) {
 }
 console.log("Names on the list: ");
 printArray(["Alice", "Bob", "Charlie"]);
+

@@ -31,7 +31,7 @@ This activity reinforces:
 // ============================================
 // ❌ Original Code (Before Refactoring)
 // ============================================
-/*
+
 // Script 1 - Greeting multiple users
 console.log("Welcome, Alice!");
 console.log("Welcome, Bob!");
@@ -52,7 +52,7 @@ console.log("Names in the list:");
 for (let i = 0; i < names.length; i++) {
    console.log(names[i]);
 }
-*/
+
 /*
 ===========================================
 🛠️ Steps for Refactoring
